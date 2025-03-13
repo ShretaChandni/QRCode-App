@@ -1,1 +1,1 @@
-web: streamlit run app.py --server.port $PORT
+web: streamlit run QRcode.py --server.port $PORT
